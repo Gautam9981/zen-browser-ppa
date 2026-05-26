@@ -3,7 +3,7 @@ Version: 1.20b
 Architecture: amd64
 Maintainer: Gautam Mahajan <mahajanga801@gmail.com>
 Installed-Size: 6313
-Filename: https://github.com/Gautam9981/zen-browser-ppa/releases/download/v1.20b/zen-browser_1.20b_amd64.deb
+Filename: pool/main/zen-browser_1.20b_amd64.deb
 Section: web
 Priority: optional
 Homepage: https://zen-browser.app
